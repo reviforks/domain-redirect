@@ -1,5 +1,7 @@
 {
     "source.domain": "target.domain",
     "www.revi.blog": "revi.blog",
-    "www.revi.wiki": "revi.wiki"
+    "www.revi.wiki": "revi.wiki",
+    "phab.wiki": "phabricator.wikimedia.org",
+    "m.phab.wiki": "phabricator.miraheze.org"
 }
